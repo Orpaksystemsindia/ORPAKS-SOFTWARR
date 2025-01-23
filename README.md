@@ -1,6 +1,5 @@
 # ORPAKS-SOFTWARR
-Automation SOP And Software And Latest update 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
